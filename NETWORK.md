@@ -1,10 +1,17 @@
-# Zion AI Gateway
+# Zion AI Gateway — Zion App Network
 
-Unified LLM API gateway with routing, failover and quotas.
+Zion AI Gateway — unified LLM API gateway with routing, failover and quotas. Part of the [Zion Tech Group](https://ziontechgroup.com) app network.
 
-## Network
-- 📚 Master catalog: [zion-app-network/CATALOG.md](https://github.com/Zion-support/zion-app-network/blob/main/CATALOG.md)
-- Hubs: [zion-app-network](https://github.com/Zion-support/zion-app-network) · [zion-apps-hub](https://github.com/Zion-support/zion-apps-hub)
-- Related: [llm-gateway](https://github.com/Zion-support/llm-gateway) · [zion-model-router](https://github.com/Zion-support/zion-model-router) · [zion-ai-prompt-router](https://github.com/Zion-support/zion-ai-prompt-router) · [zion-ai-api-guardian](https://github.com/Zion-support/zion-ai-api-guardian) · [zion-ai-observability](https://github.com/Zion-support/zion-ai-observability)
+- 🔗 Live app: [https://ziontechgroup.com/zion-ai-gateway/](https://ziontechgroup.com/zion-ai-gateway/)
+- 🏠 Category: [LLM, Prompts & RAG](https://github.com/Zion-support/zion-network/blob/main/network/llm-prompts-rag.md)
 
-*Zion Tech Group · [ziontechgroup.com](https://ziontechgroup.com)*
+## Related apps in the network
+
+- [Zion AI Prompt Router](https://github.com/Zion-support/zion-ai-prompt-router) — intelligent LLM routing and cost arbitrage
+- [Zion AI FinOps](https://github.com/Zion-support/zion-ai-finops) — LLM cost and token optimization
+- [LLM Cost Calculator](https://github.com/Zion-support/llm-cost-calculator) — token pricing comparison across models
+- [Zion AI Benchmark Lab](https://github.com/Zion-support/zion-ai-benchmark-lab) — model evaluations and leaderboards
+- [Token Context Calculator](https://github.com/Zion-support/token-context-calculator) — estimate tokens vs context windows
+
+## Part of the Zion App Network
+🌐 [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md) · [Status](https://zion-support.github.io/zion-status/) · [Plans](https://zion-support.github.io/zion-plans/) · [Portal](https://zion-support.github.io/zion-portal/)
